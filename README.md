@@ -3,7 +3,7 @@
 This plug-in adds support for time based OTP (totp) and HMAC based OTP (hotp) tokens for OpenVPN.
 Compatible with Google Authenticator software token, other software and hardware based OTP tokens.
 
-> This is a fork and continued maintenance from the previous project of https://github.com/evgeny-gridasov/openvpn-otp
+> This is a fork and continued maintenance from the previous project of [openvpn-otp](https://github.com/evgeny-gridasov/openvpn-otp)
 
 ## Supported OS
 
