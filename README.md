@@ -1,8 +1,9 @@
-OpenVPN OTP Authentication support
-==================================
+# OpenVPN TOTP plugin using Google Authenticator
 
 This plug-in adds support for time based OTP (totp) and HMAC based OTP (hotp) tokens for OpenVPN.
 Compatible with Google Authenticator software token, other software and hardware based OTP tokens.
+
+> This is a fork and continued maintenance from the previous project of https://github.com/evgeny-gridasov/openvpn-otp
 
 Compile and install ``openvpn-otp.so`` file to your OpenVPN plugins directory (usually ``/usr/lib/openvpn`` or ``/usr/lib64/openvpn/plugins``).
 
